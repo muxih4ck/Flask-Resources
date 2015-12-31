@@ -110,11 +110,6 @@ flask扩展:
 
 1. [学而api](https://github.com/Muxi-Studio/xueer_be/tree/master/xueer/api_1_0)
 
-木犀的轮子:
-
-1. [rest](https://github.com/neo1218/rest)
-
-
 ### 9. 部署
 文章:
 
