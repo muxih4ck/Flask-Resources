@@ -144,7 +144,7 @@ flask官方纪录:
 其他:
 
 1. [来自豆瓣](http://www.douban.com/group/topic/32753119/)
-2. 学而(开发中)
+2. [学而~手机web app已完成](http://xueer.ccnuer.cn)
 3. 木犀官网(开发中)
 4. [西窗烛](http://www.xichuangzhu.com/)
 5. [blog bar](http://www.blogbar.cc/)
