@@ -100,6 +100,7 @@ flask扩展:
 
 1. [REST](http://searchsoa.techtarget.com/definition/REST)
 2. [Designing a RESTful API with Python and Flask](http://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask)
+3. [RESTful API 设计规范](https://github.com/BingyanStudio/share-and-standards/blob/master/RESTful-API-design-standards.md)
 
 工具:
 
