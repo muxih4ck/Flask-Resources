@@ -12,7 +12,7 @@ flask 知识点&资源总结 origin by neo1218
 代码:
 
 1. [flask 源码中的wsgi app](https://github.com/mitsuhiko/flask/blob/master/flask%2Fapp.py#L1937)
-
+2. [flask请求处理的大致流程](http://www.15yan.com/story/9nDkrRCYJcE/)
 ### 2. werkzeug
 文档:
 
